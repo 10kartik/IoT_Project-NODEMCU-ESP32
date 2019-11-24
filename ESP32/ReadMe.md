@@ -7,4 +7,3 @@ All this data is collected by APP and sent to GOOGLE-SHEET via a GOOGLE-FORM.
 
 
 <p> The APKs built for this projects aren't made using Java or Kotlin but are built using Block coding</p>
-<h3> Download the .aia file</h3> from https://drive.google.com/drive/folders/1XpXQtcAKhSkc35D5yzaD-m9Cqz1Elz1l?usp=sharing <h3>.
